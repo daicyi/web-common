@@ -1,0 +1,13 @@
+{
+  "plugins": [["import", {
+    "libraryName": "antd",
+    "style": true
+  }]],
+  "presets": [
+    ["env", {
+      "modules": false
+    }],
+    "stage-0",
+    "react"
+  ]
+}
